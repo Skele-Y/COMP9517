@@ -1,0 +1,32 @@
+Function 1: Time taken - 10.6315 seconds
+
+Function 2: Time taken - 13.6979 seconds
+
+Function 3: Time taken - 35.9854 seconds
+
+Function 4: Time taken - 57.6310 seconds
+
+Function 5: Time taken - 12.5128 seconds
+
+Function 6: Time taken - 18.5819 seconds
+
+Function 7: Time taken - 39.9149 seconds
+
+Function 8: Time taken - 64.1411 seconds
+
+Function 9: Time taken - 22.4031 seconds
+
+Function 10: Time taken - 37.0430 seconds
+
+Function 11: Time taken - 36.1109 seconds
+
+Function 12: Time taken - 70.8362 seconds
+
+Function 13: Time taken - 18.4994 seconds
+
+Function 14: Time taken - 31.0390 seconds
+
+Function 15: Time taken - 77.8633 seconds
+
+Function 16: Time taken - 141.5253 seconds
+
